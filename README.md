@@ -80,11 +80,11 @@ python AI_Genetics_Algo_K_Means_Based_HP_Optimized.py     --file_path path/to/ct
 
 ## **👤 Auteurs**
 
-* **Arthur Desgorge**  
+* **DESGORGE Arthur**  
   * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique
-* **Damien Charconnet**  
+* **CHARCONNET Damien**  
   * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique   
-* **Dan Achille**  
+* **ACHILLE Dan**  
   * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique 
 * **CUZOU Alexandre**  
   * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique 
