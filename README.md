@@ -91,4 +91,4 @@ python AI_Genetics_Algo_K_Means_Based_HP_Optimized.py     --file_path path/to/ct
 
 ---
 
-> *Licence : MIT — voir `LICENSE` pour plus de détails.*
+> *Licence : MIT
