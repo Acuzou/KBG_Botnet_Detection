@@ -78,6 +78,17 @@ python AI_Genetics_Algo_K_Means_Based_HP_Optimized.py     --file_path path/to/ct
 - García S., Pechoucek M., Grill M. (2014). *An empirical comparison of botnet detection methods*.  
 - **CTU‑13 dataset** (scénario 10) — CTU University, 2011.
 
+## **👤 Auteurs**
+
+* **Arthur Desgorge**  
+  * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique
+* **Damien Charconnet**  
+  * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique   
+* **Dan Achille**  
+  * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique 
+* **CUZOU Alexandre**  
+  * Etudiant Ingénieur en Cybersécurité \- IMT Atlantique 
+
 ---
 
 > *Licence : MIT — voir `LICENSE` pour plus de détails.*
